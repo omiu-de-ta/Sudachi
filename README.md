@@ -77,6 +77,8 @@ sudachi は、プログラミング初学者向けの IT特化型SNS です。�
 | 認証・DB・画像ストレージ | Supabase（Auth / PostgreSQL / Storage） |
 | ホスティング | Vercel（フロントエンド）/ Render（バックエンド） |
 
+## 担当箇所
+投稿機能・タイムライン
 ---
 
 ## 開発者向け
